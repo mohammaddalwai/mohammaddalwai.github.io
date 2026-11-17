@@ -52,7 +52,7 @@ window.PORTFOLIO = {
     "I'm a Master's student in Data Science at Arizona State University (4.0 GPA, graduating May 2027), with a B.Tech in Computer Science and Business Systems from Bharati Vidyapeeth, Mumbai.",
     "Most recently, I fine-tuned Whisper for accented conversational English, measured it on speakers it had never heard, and deployed it as a public demo. I've also built a retinal image classifier, a document pipeline for pharmaceutical records, and a loan-risk model explained with SHAP. I care about results that hold up: locked test sets, confidence intervals, and honest limitations.",
     // Edit or remove this line to match what you're looking for
-    "I'm currently looking for data science and machine learning part-time roles.",
+    "I'm currently looking for data science and machine learning part-time roles. but I'm also open to internships and full-time positions after graduation.",
   ],
 
   skills: [
